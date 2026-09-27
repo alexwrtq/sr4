@@ -5,5 +5,5 @@ int main()
 {
     setlocale(LC_ALL, ".1251");
     double y, x;
-    cout<<"Введіть значення x\n";
+    cout<<"Введіть значення x\n"
 }
